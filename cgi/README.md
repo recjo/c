@@ -1,0 +1,1 @@
+LinkPoint is an internet credit card transaction vendor. This script communicates with the LinkPoint transaction server and checks to see if the credit card transaction is AUTHORIZED, DECLINED or a FRAUD.

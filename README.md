@@ -1,12 +1,12 @@
 # c
 Projects written in "C"
 
-* [Arduino](/arduino) embedded scripts for the Arduino hardware device.
+* [Arduino](/arduino) - embedded scripts for the Arduino hardware device.
 
-* [CD Player](/cd-player) "C" program to control a computer CD player.
+* [CD Player](/cd-player) - "C" program to control a computer CD player.
 
-* [CGI](/cgi) web cgi scripts written in "C"
+* [CGI](/cgi) - web site cgi scripts written in "C"
 
-* [Printer](/printing) "C" program that sends data to a printer.
+* [Printer](/printing) - "C" program that sends data to a printer.
 
-* [SCSI](/scsi) "C" code to run on the SCSI bus.
+* [SCSI](/scsi) - "C" code to run on the SCSI bus.

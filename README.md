@@ -3,7 +3,7 @@ Projects written in "C"
 
 * [Arduino](/arduino) embedded scripts for the Arduino hardware device.
 
-* [CD Players](/cd-player) "C" program to control a computer CD player.
+* [CD Player](/cd-player) "C" program to control a computer CD player.
 
 * [CGI](/cgi) web cgi scripts written in "C"
 

@@ -10,3 +10,5 @@ Projects written in "C"
 * [Printer](/printing) - "C" program that sends data to a printer.
 
 * [SCSI](/scsi) - "C" code to run on the SCSI bus.
+
+* [Serial Port](/serial-port) - "C" code to run via the serial port to control a hardware device

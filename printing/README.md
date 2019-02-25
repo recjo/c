@@ -1,0 +1,1 @@
+This program automated a QA testing process used in a hard drive testing facility. It utilized the Printing Manager to print "Testing Log Tickets" on a printer. These tickets accompanied hard drive systems throughout the QA process and recorded test results.

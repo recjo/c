@@ -1,0 +1,1 @@
+This program scanned the SCSI bus looking for SCSI devices. If a SCSI device was found, it issued a "SCSI Inquiry" to the device and displayed the results, such as SCSI ID, manufaturer, firmware version, etc.
